@@ -6,4 +6,14 @@ ANSWER: You create a hidden directory (.directory) where metadata which
 users don't need to interact with; this directory helps users storing the 
 files git need to work with.
 
+REFLECT: STAGING AREA
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+The staging area is in a middle position, it works like an intermediary
+between the directory and the repository. It offers the value of including
+new files to the repository and leaving other files untracked.
+
+   
 
