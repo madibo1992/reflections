@@ -1,0 +1,9 @@
+REFLECT: INITIALIZING A REPOSITORY
+
+What happens when you initialize a repository? Why do you need to do it?
+
+ANSWER: You create a hidden directory (.directory) where metadata which
+users don't need to interact with; this directory helps users storing the 
+files git need to work with.
+
+

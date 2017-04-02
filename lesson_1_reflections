@@ -1,0 +1,58 @@
+1. How did viewing a diff between 2 versions help you spot the bug?
+
+A: When i see differences between files, in the case that one of them is working and the other one not; is easy to
+find out which word is the source of an error.
+
+Reflect
+How could having easy access to the entire history of a 
+file make you a more efficient programmer in the long term?
+
+A: I can see the data structures used in the past and compare them. Versions
+allow me as a programmer to flashback to any point of a proyect and remember
+how i solved a problem.
+
+What do you think are the pros and cons of manually 
+choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+
+A:
+pros: You can commit when you make a logical change.
+cons: Complexity, because you need to have a good sense of judgement
+when making commits, so they can be understandable.
+
+Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
+
+A:Because coding involves working with different technologies semi-independent of 
+each one, this means that a change in a file can have consequences that affect
+other files. Google docs, focuses on just one file at a time.
+
+How can you use the commands git log and git diff
+ to view the history of files?
+
+A: To use the command git log, you need to go to directory of the repository you
+cloned with git clone commmand, then you type in git log.
+
+The output will be all the commits done in history, each one with it's author, date, description and ID.
+
+To use the command git diff, you need 2 commit's ids, you type in git diff following the ids
+of the 2 commits and it will show the differences between the 2 commits.
+
+
+REFLECT: CONFIDENCE FROM VERSION CONTROL
+How might using version control make you more confident to make changes that
+could break something?
+
+Version control can always have the possibility to make a rollback:
+By rollBack i mean that you can always return to a "checkpoint" commit.
+
+
+REFLECT: HOW DO YOU WANT TO USE GIT?
+
+Now that you have your workspace set up, what do you want to try using GIT for?
+
+
+I want to try using GIT on my own Android studio proyect.
+
+
