@@ -14,4 +14,13 @@ To maintain your own version of the repository as you wish. Other
 people can also be collaborating in the same proyect, and you don't
 want their changes to mix up with your work.
 
+Reflect: Forks, Clones and Branches. Describe the differences between
+forks, clones and branches. When would you use one instead of
+another?
+
+A fork and a clone is almost the same thing except in the matters that
+with a fork you are giving credits and referencing a pre-existing
+repository. The difference between a branch and a clone or fork, is that
+is part of the repository and not the whole. A clone is the exact copy
+of another repository but without referencing the original copy.
 
