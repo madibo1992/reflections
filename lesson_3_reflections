@@ -24,3 +24,8 @@ repository. The difference between a branch and a clone or fork, is that
 is part of the repository and not the whole. A clone is the exact copy
 of another repository but without referencing the original copy.
 
+Reflect: Local copies of remote branches What is the benefit of having a
+copy of the last known state of the remote stored locally?
+
+The benefit is to compare your changes to the code with the last state
+of the remote, to late made commits and update the remote. 
