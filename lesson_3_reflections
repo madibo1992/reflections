@@ -40,3 +40,15 @@ through facebook, face to face, and by using unity's version control
 system. The easiest way to collaborate was by face-to-face and the
 hardest is just file exchanging.
 
+Reflect: When would you want to make changes in a separate branch 
+rather than directly in master?
+What benefits does approach have?
+
+Because sometimes you want to work on your own version of 
+the proyect rather than updating the master for all the 
+collaborators.
+Using the approach of just making changes to a master has the
+advantage of advising or letting know all your collaborators
+for each change you want to do.
+
+ 
